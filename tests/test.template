@@ -1,0 +1,4 @@
+This is a template file to test the expand_templates function. 
+#{value_1}
+
+#{value_2}
