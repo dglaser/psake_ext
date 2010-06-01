@@ -1,5 +1,5 @@
 
-. .\psake_ext.ps1
+. ..\psake_ext.ps1
 
 [string]$temp_data = 'test.data'
 [string]$temp_file = 'test.template'
